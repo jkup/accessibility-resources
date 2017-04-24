@@ -14,6 +14,8 @@ A list of web accessibility resources. Please submit any great resources you kno
 
 ## Courses
 
++ [Website Accessibility at Frontend Masters](https://frontendmasters.com/courses/web-accessibility/)
++ [Web Accessibility at Udacity](https://www.udacity.com/course/web-accessibility--ud891)
 + [Introduction to Web Accessibility](https://webaccessibility.withgoogle.com/course)
 
 ## Tools
@@ -21,6 +23,11 @@ A list of web accessibility resources. Please submit any great resources you kno
 + [**a11y** - Accessibility audit tooling for the web](https://github.com/addyosmani/a11y)
 + [**Accessibility Developer Tools** - Chrome Extension](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb)
 + [**Tenon.io** - Online accessibility auditor](http://tenon.io/)
+
+## Videos
+
++ [How to win at mobile accessibility / Marcy Sutton](https://www.youtube.com/watch?v=Jp6-9X-ZClk)
++ [The Magic of Automated Accessibility Testing](https://www.youtube.com/watch?v=-XUmf_RPF8k)
 
 ## Articles
 
