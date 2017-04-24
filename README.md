@@ -32,3 +32,11 @@ A list of web accessibility resources. Please submit any great resources you kno
 ## Articles
 
 + [Accessibility APIs: A Key To Web Accessibility](http://www.smashingmagazine.com/2015/03/16/web-accessibility-with-accessibility-api/)
+
+## People
+
++ [@Jennison](https://twitter.com/Jennison) Jennison Asuncion
++ [@marcysutton](https://twitter.com/marcysutton) Marcy Sutton
++ [@ryanflorence](https://twitter.com/ryanflorence) Ryan Florence
++ [@jkup](https://twitter.com/jkup) Jon Kuperman
++ [@rob_dodson](https://twitter.com/rob_dodson) Rob Dodson
